@@ -1,0 +1,17 @@
+{
+  "name": "html-draggable",
+  "version": "1.0.0",
+  "description": "Simple js script for draggable element in HTML",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html", "draggable"
+  ],
+  "author": "",
+  "license": "ISC"
+}
